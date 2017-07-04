@@ -1,0 +1,6 @@
+valid_user:
+    email: 'NaascabralT'
+    senha: 'Teste123'
+
+pesquisa:
+    pesquisar: 'Bdd cucumber'

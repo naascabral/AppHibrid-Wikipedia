@@ -1,0 +1,8 @@
+[caps]
+platformName = "Android"
+deviceName = "Nexus 5 API 22"
+app = "./app/org.wikipedia_2.5.195-r-2017-04-21-195_minAPI16(arm64-v8a,armeabi,armeabi-v7a,mips,x86,x86_64)(nodpi)_apkmirror.com.apk"
+appActivity = "http://localhost:4723/wd/hub"
+appPackage = "com.test"
+[appium_lib]
+port = 4723
