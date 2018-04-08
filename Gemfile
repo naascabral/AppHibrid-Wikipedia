@@ -4,4 +4,5 @@ group :test do
   gem 'cucumber'
   gem 'appium_lib'
   gem 'rspec'
+  gem 'faker'
 end

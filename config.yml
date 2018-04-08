@@ -1,6 +1,18 @@
 valid_user:
-    email: 'NaascabralT'
+    name: 'NaascabralT'
     senha: 'Teste123'
 
 pesquisa:
     pesquisar: 'Bdd cucumber'
+
+limpa:
+    limpar: ' ' 
+       
+salva:
+    salvar: 'teste 123'
+
+criar_user:
+    #:username: Faker::Name.name 
+    senha: 'Teste123'
+    rept: 'Teste123'
+    #email: 'Faker::Internet.email'
