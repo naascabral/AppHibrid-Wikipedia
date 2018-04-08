@@ -2,10 +2,7 @@
 
 Funcionalidade: Login no app
 
-Cenário: Tela Inicial App Wikipedia
-  Dado Estou com o App executando
-  Quando quero vizualizar: noticias, curiosidades e pesquisas.
-  Então então faço o scroll de tela
+
 
 @cadastro
 Cenário: Criando uma conta 

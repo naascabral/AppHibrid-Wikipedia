@@ -1,14 +1,3 @@
-Quando(/^Estou com o App executando$/) do
-    $driver.find_element(:id, "org.wikipedia:id/single_fragment_toolbar_wordmark")
-end
-Quando(/^quero vizualizar: noticias, curiosidades e pesquisas\.$/) do
-    $driver.find_element(:id, "org.wikipedia:id/view_card_header_title")
-end
-  
-Então(/^então faço o scroll de tela$/) do
-    find_element_in_list(@lista)
-end
-
 Dado(/^que quero fazer o login e não sou cadastrado$/) do
     $driver.find_element(:id,"org.wikipedia:id/menu_overflow_button").click
     $driver.find_element(:id,"org.wikipedia:id/explore_overflow_account_name").click
